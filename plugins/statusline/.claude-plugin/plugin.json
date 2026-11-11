@@ -1,0 +1,7 @@
+{
+  "name": "statusline",
+  "version": "0.1.0",
+  "description": "Gradient status line: account, model and effort, output speed, context against the auto-compact point, prompt-cache TTL, cost with the subagents' share, and plan usage",
+  "author": { "name": "savindaa" },
+  "types": "./types/index.d.ts"
+}

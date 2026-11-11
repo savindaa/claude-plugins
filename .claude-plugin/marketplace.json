@@ -1,0 +1,6 @@
+{
+  "name": "savindaa",
+  "description": "Claude Code plugins by savindaa",
+  "owner": { "name": "savindaa" },
+  "plugins": [{ "name": "statusline", "source": "./plugins/statusline" }]
+}
